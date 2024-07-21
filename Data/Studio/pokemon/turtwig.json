@@ -61,6 +61,19 @@
         "shell_armor"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "387",
+        "iconShiny": "",
+        "front": "387",
+        "frontShiny": "387",
+        "back": "387",
+        "backShiny": "387",
+        "footprint": "387",
+        "character": "387_0",
+        "characterShiny": "387s_0",
+        "cry": "387cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -70,6 +83,11 @@
         {
           "klass": "LevelLearnableMove",
           "move": "withdraw",
+          "level": 5
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "vine_whip",
           "level": 5
         },
         {
@@ -346,20 +364,7 @@
           "klass": "BreedLearnableMove",
           "move": "worry_seed"
         }
-      ],
-      "resources": {
-        "icon": "387",
-        "iconShiny": "",
-        "front": "387",
-        "frontShiny": "387",
-        "back": "387",
-        "backShiny": "387",
-        "footprint": "387",
-        "character": "387_0",
-        "characterShiny": "387s_0",
-        "cry": "387cry.ogg",
-        "hasFemale": false
-      }
+      ]
     }
   ]
 }

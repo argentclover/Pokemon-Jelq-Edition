@@ -1,0 +1,87 @@
+{
+  "klass": "TrainerBattleSetup",
+  "id": 14,
+  "dbSymbol": "trainer_14",
+  "vsType": 1,
+  "isCouple": false,
+  "baseMoney": 50,
+  "bagEntries": [],
+  "battleId": 0,
+  "ai": 2,
+  "party": [
+    {
+      "specie": "zigzagoon",
+      "form": 0,
+      "shinySetup": {
+        "kind": "automatic",
+        "rate": -1
+      },
+      "levelSetup": {
+        "kind": "fixed",
+        "level": 3
+      },
+      "randomEncounterChance": 1,
+      "expandPokemonSetup": [
+        {
+          "type": "evs",
+          "value": {
+            "hp": 0,
+            "atk": 0,
+            "dfe": 0,
+            "spd": 0,
+            "ats": 0,
+            "dfs": 0
+          }
+        },
+        {
+          "type": "ivs",
+          "value": {
+            "hp": 0,
+            "atk": 0,
+            "dfe": 0,
+            "spd": 0,
+            "ats": 0,
+            "dfs": 0
+          }
+        },
+        {
+          "type": "loyalty",
+          "value": 70
+        },
+        {
+          "type": "moves",
+          "value": [
+            "tackle",
+            "growl",
+            "sand_attack",
+            "__remove__"
+          ]
+        },
+        {
+          "type": "originalTrainerName",
+          "value": "Scientist"
+        },
+        {
+          "type": "originalTrainerId",
+          "value": 0
+        },
+        {
+          "type": "caughtWith",
+          "value": "master_ball"
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "sprite": "dp_42",
+    "artworkFull": "dp_42",
+    "artworkSmall": "dp_42",
+    "character": "dp_42",
+    "musics": {
+      "encounter": "",
+      "victory": "",
+      "defeat": "",
+      "bgm": ""
+    }
+  }
+}

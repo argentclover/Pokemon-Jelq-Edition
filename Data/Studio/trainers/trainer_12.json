@@ -202,15 +202,15 @@
     }
   ],
   "resources": {
-    "sprite": "Camper",
+    "sprite": "camper",
     "artworkFull": "",
     "artworkSmall": "",
     "character": "",
     "musics": {
-      "bgm": "",
-      "defeat": "",
       "encounter": "",
-      "victory": ""
+      "victory": "",
+      "defeat": "",
+      "bgm": ""
     }
   }
 }

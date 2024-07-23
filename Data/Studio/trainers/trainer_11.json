@@ -23,7 +23,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 28
+        "level": 5
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -85,7 +85,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 31
+        "level": 6
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -147,7 +147,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 32
+        "level": 4
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -207,10 +207,10 @@
     "artworkSmall": "",
     "character": "",
     "musics": {
-      "bgm": "",
-      "defeat": "",
       "encounter": "",
-      "victory": ""
+      "victory": "",
+      "defeat": "",
+      "bgm": ""
     }
   }
 }

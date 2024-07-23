@@ -18,7 +18,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 29
+        "level": 1
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -80,7 +80,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 32
+        "level": 1
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -140,10 +140,10 @@
     "artworkSmall": "027_sma",
     "character": "",
     "musics": {
-      "bgm": "",
-      "defeat": "",
       "encounter": "",
-      "victory": ""
+      "victory": "",
+      "defeat": "",
+      "bgm": ""
     }
   }
 }

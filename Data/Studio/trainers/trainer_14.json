@@ -74,9 +74,9 @@
   ],
   "resources": {
     "sprite": "dp_42",
-    "artworkFull": "dp_42",
-    "artworkSmall": "dp_42",
-    "character": "dp_42",
+    "artworkFull": "VSScientist_M_big",
+    "artworkSmall": "VSScientist_M_sma",
+    "character": "",
     "musics": {
       "encounter": "",
       "victory": "",

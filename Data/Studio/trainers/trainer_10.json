@@ -10,7 +10,7 @@
   "ai": 1,
   "party": [
     {
-      "specie": "whirlipede",
+      "specie": "venipede",
       "form": 0,
       "shinySetup": {
         "kind": "automatic",
@@ -18,7 +18,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 1
+        "level": 2
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "specie": "beedrill",
+      "specie": "weedle",
       "form": 0,
       "shinySetup": {
         "kind": "automatic",
@@ -80,7 +80,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 1
+        "level": 2
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -129,13 +129,13 @@
         },
         {
           "type": "ability",
-          "value": "swarm"
+          "value": "shield_dust"
         }
       ]
     }
   ],
   "resources": {
-    "sprite": "",
+    "sprite": "dp_07",
     "artworkFull": "027_big",
     "artworkSmall": "027_sma",
     "character": "",

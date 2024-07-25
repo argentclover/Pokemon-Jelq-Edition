@@ -4,7 +4,7 @@
   "dbSymbol": "map024",
   "stepsAverage": 30,
   "bgm": {
-    "name": "",
+    "name": "real remix [sketch 2].mp3",
     "volume": 100,
     "pitch": 100
   },
@@ -14,8 +14,8 @@
     "pitch": 100
   },
   "tiledFilename": "024 TT Nathan House",
-  "mtime": 1721713361949,
-  "sha1": "c82d6187d2c3bd11f3288727292d642a57f60c84",
+  "mtime": 1721941119531,
+  "sha1": "5cbb76d84a8a6ec6b2de65b291c4d5afff686196",
   "tileMetadata": {
     "width": 20,
     "height": 20,
@@ -382,7 +382,7 @@
           "transformId": 0
         },
         {
-          "passage": 15
+          "passage": 0
         }
       ],
       [
@@ -446,7 +446,7 @@
           "transformId": 0
         },
         {
-          "passage": 15
+          "passage": 0
         }
       ],
       [

@@ -8,7 +8,7 @@
       "height": 0.9,
       "weight": 4.4,
       "type1": "ghost",
-      "type2": "__undef__",
+      "type2": "fairy",
       "baseHp": 60,
       "baseAtk": 60,
       "baseDfe": 60,
@@ -50,6 +50,19 @@
         "levitate"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "429",
+        "iconShiny": "",
+        "front": "429",
+        "frontShiny": "429",
+        "back": "429",
+        "backShiny": "429",
+        "footprint": "429",
+        "character": "429_0",
+        "characterShiny": "429s_0",
+        "cry": "429cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -328,20 +341,7 @@
           "klass": "TechLearnableMove",
           "move": "secret_power"
         }
-      ],
-      "resources": {
-        "icon": "429",
-        "iconShiny": "",
-        "front": "429",
-        "frontShiny": "429",
-        "back": "429",
-        "backShiny": "429",
-        "footprint": "429",
-        "character": "429_0",
-        "characterShiny": "429s_0",
-        "cry": "429cry.ogg",
-        "hasFemale": false
-      }
+      ]
     }
   ]
 }

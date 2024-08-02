@@ -7,7 +7,7 @@
       "form": 0,
       "height": 2,
       "weight": 82,
-      "type1": "ground",
+      "type1": "bug",
       "type2": "dragon",
       "baseHp": 80,
       "baseAtk": 100,
@@ -50,6 +50,19 @@
         "levitate"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "330",
+        "iconShiny": "",
+        "front": "330",
+        "frontShiny": "330",
+        "back": "330",
+        "backShiny": "330",
+        "footprint": "330",
+        "character": "330_0",
+        "characterShiny": "330s_0",
+        "cry": "330cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -383,20 +396,7 @@
           "klass": "EvolutionLearnableMove",
           "move": "dragon_claw"
         }
-      ],
-      "resources": {
-        "icon": "330",
-        "iconShiny": "",
-        "front": "330",
-        "frontShiny": "330",
-        "back": "330",
-        "backShiny": "330",
-        "footprint": "330",
-        "character": "330_0",
-        "characterShiny": "330s_0",
-        "cry": "330cry.ogg",
-        "hasFemale": false
-      }
+      ]
     }
   ]
 }

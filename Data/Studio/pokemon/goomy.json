@@ -8,7 +8,7 @@
       "height": 0.3,
       "weight": 2.8,
       "type1": "dragon",
-      "type2": "__undef__",
+      "type2": "water",
       "baseHp": 45,
       "baseAtk": 50,
       "baseDfe": 35,
@@ -61,6 +61,19 @@
         "gooey"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "704",
+        "iconShiny": "",
+        "front": "704",
+        "frontShiny": "704",
+        "back": "704",
+        "backShiny": "704",
+        "footprint": "",
+        "character": "704_0",
+        "characterShiny": "704s_0",
+        "cry": "704cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -257,20 +270,7 @@
           "klass": "BreedLearnableMove",
           "move": "poison_tail"
         }
-      ],
-      "resources": {
-        "icon": "704",
-        "iconShiny": "",
-        "front": "704",
-        "frontShiny": "704",
-        "back": "704",
-        "backShiny": "704",
-        "footprint": "",
-        "character": "704_0",
-        "characterShiny": "704s_0",
-        "cry": "704cry.ogg",
-        "hasFemale": false
-      }
+      ]
     }
   ]
 }

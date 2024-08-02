@@ -7,8 +7,8 @@
       "form": 0,
       "height": 0.4,
       "weight": 1.2,
-      "type1": "normal",
-      "type2": "flying",
+      "type1": "flying",
+      "type2": "__undef__",
       "baseHp": 45,
       "baseAtk": 40,
       "baseDfe": 60,
@@ -61,6 +61,19 @@
         "cloud_nine"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "333",
+        "iconShiny": "",
+        "front": "333",
+        "frontShiny": "333",
+        "back": "333",
+        "backShiny": "333",
+        "footprint": "333",
+        "character": "333_0",
+        "characterShiny": "333s_0",
+        "cry": "333cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -347,20 +360,7 @@
           "klass": "BreedLearnableMove",
           "move": "steel_wing"
         }
-      ],
-      "resources": {
-        "icon": "333",
-        "iconShiny": "",
-        "front": "333",
-        "frontShiny": "333",
-        "back": "333",
-        "backShiny": "333",
-        "footprint": "333",
-        "character": "333_0",
-        "characterShiny": "333s_0",
-        "cry": "333cry.ogg",
-        "hasFemale": false
-      }
+      ]
     }
   ]
 }

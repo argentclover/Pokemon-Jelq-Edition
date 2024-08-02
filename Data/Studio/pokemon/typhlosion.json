@@ -8,7 +8,7 @@
       "height": 1.7,
       "weight": 79.5,
       "type1": "fire",
-      "type2": "__undef__",
+      "type2": "ground",
       "baseHp": 78,
       "baseAtk": 84,
       "baseDfe": 78,
@@ -50,6 +50,19 @@
         "flash_fire"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "157",
+        "iconShiny": "",
+        "front": "157",
+        "frontShiny": "157",
+        "back": "157",
+        "backShiny": "157",
+        "footprint": "157",
+        "character": "157_0",
+        "characterShiny": "157s_0",
+        "cry": "157cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -376,20 +389,7 @@
           "klass": "TechLearnableMove",
           "move": "rock_climb"
         }
-      ],
-      "resources": {
-        "icon": "157",
-        "iconShiny": "",
-        "front": "157",
-        "frontShiny": "157",
-        "back": "157",
-        "backShiny": "157",
-        "footprint": "157",
-        "character": "157_0",
-        "characterShiny": "157s_0",
-        "cry": "157cry.ogg",
-        "hasFemale": false
-      }
+      ]
     }
   ]
 }

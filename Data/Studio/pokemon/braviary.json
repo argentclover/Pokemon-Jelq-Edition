@@ -7,7 +7,7 @@
       "form": 0,
       "height": 1.5,
       "weight": 41,
-      "type1": "normal",
+      "type1": "fighting",
       "type2": "flying",
       "baseHp": 100,
       "baseAtk": 123,
@@ -50,6 +50,19 @@
         "defiant"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "628",
+        "iconShiny": "",
+        "front": "628",
+        "frontShiny": "628",
+        "back": "628",
+        "backShiny": "628",
+        "footprint": "628",
+        "character": "628_0",
+        "characterShiny": "628s_0",
+        "cry": "628cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -329,20 +342,7 @@
           "klass": "EvolutionLearnableMove",
           "move": "superpower"
         }
-      ],
-      "resources": {
-        "icon": "628",
-        "iconShiny": "",
-        "front": "628",
-        "frontShiny": "628",
-        "back": "628",
-        "backShiny": "628",
-        "footprint": "628",
-        "character": "628_0",
-        "characterShiny": "628s_0",
-        "cry": "628cry.ogg",
-        "hasFemale": false
-      }
+      ]
     }
   ]
 }

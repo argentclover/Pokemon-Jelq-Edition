@@ -8,7 +8,7 @@
       "height": 6.2,
       "weight": 162,
       "type1": "water",
-      "type2": "__undef__",
+      "type2": "fairy",
       "baseHp": 95,
       "baseAtk": 60,
       "baseDfe": 79,
@@ -50,6 +50,23 @@
         "cute_charm"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "350",
+        "iconShiny": "",
+        "front": "350",
+        "frontF": "350f",
+        "frontShiny": "350",
+        "frontShinyF": "350f",
+        "back": "350",
+        "backF": "350f",
+        "backShiny": "350",
+        "backShinyF": "350f",
+        "footprint": "350",
+        "character": "350_0",
+        "characterShiny": "350s_0",
+        "cry": "350cry.ogg",
+        "hasFemale": true
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -314,24 +331,7 @@
           "klass": "EvolutionLearnableMove",
           "move": "water_pulse"
         }
-      ],
-      "resources": {
-        "icon": "350",
-        "iconShiny": "",
-        "front": "350",
-        "frontF": "350f",
-        "frontShiny": "350",
-        "frontShinyF": "350f",
-        "back": "350",
-        "backF": "350f",
-        "backShiny": "350",
-        "backShinyF": "350f",
-        "footprint": "350",
-        "character": "350_0",
-        "characterShiny": "350s_0",
-        "cry": "350cry.ogg",
-        "hasFemale": true
-      }
+      ]
     }
   ]
 }

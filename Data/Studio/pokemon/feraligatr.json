@@ -8,7 +8,7 @@
       "height": 2.3,
       "weight": 88.8,
       "type1": "water",
-      "type2": "__undef__",
+      "type2": "dark",
       "baseHp": 85,
       "baseAtk": 105,
       "baseDfe": 100,
@@ -50,6 +50,19 @@
         "sheer_force"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "160",
+        "iconShiny": "",
+        "front": "160",
+        "frontShiny": "160",
+        "back": "160",
+        "backShiny": "160",
+        "footprint": "160",
+        "character": "160_0",
+        "characterShiny": "160s_0",
+        "cry": "160cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -395,20 +408,7 @@
           "klass": "TechLearnableMove",
           "move": "whirlpool"
         }
-      ],
-      "resources": {
-        "icon": "160",
-        "iconShiny": "",
-        "front": "160",
-        "frontShiny": "160",
-        "back": "160",
-        "backShiny": "160",
-        "footprint": "160",
-        "character": "160_0",
-        "characterShiny": "160s_0",
-        "cry": "160cry.ogg",
-        "hasFemale": false
-      }
+      ]
     }
   ]
 }

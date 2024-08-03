@@ -352,7 +352,9 @@
       31,
       32,
       33,
-      34
+      34,
+      35,
+      36
     ],
     "hasChildren": true,
     "isExpanded": true,
@@ -414,6 +416,28 @@
     "data": {
       "klass": "MapInfoMap",
       "mapDbSymbol": "map031",
+      "parentId": 29
+    }
+  },
+  "35": {
+    "id": 35,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map032",
+      "parentId": 29
+    }
+  },
+  "36": {
+    "id": 36,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map033",
       "parentId": 29
     }
   }

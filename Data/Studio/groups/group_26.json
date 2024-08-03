@@ -29,7 +29,7 @@
           "maximumLevel": 6
         }
       },
-      "randomEncounterChance": 2,
+      "randomEncounterChance": 1,
       "expandPokemonSetup": [
         {
           "type": "evs",

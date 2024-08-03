@@ -1,19 +1,17 @@
 ================================Erreur de script================================
 Message :
-undefined local variable or method `shiny' for #<Interpreter:0x11097af8>
+(eval):6: syntax error, unexpected ',', expecting =>
+  moves: :gust, :confusion, :calm_mind
+                          ^
+(eval):7: syntax error, unexpected '}', expecting end-of-input
 
-Type : NameError
-Script : (eval) (RMXP)
-Ligne : 1
-Date : 01/08/2024 23:07:45
+Type : SyntaxError
+Script : 1_RMXP_Scripts.rb (PSDK)
+Ligne : 2098
+Date : 03/08/2024 17:25:31
 Game Version : 256
 Logiciel : PSDK 26.29
-Script used by eval command : 
-receive_pokemon_sequence(:pikipek, shiny, 5)
-
-
 ===================================Backtraces===================================
-[24] : (eval) (RMXP) | ligne 1 eval_script
 [23] : 1_RMXP_Scripts.rb (PSDK) | ligne 2098 eval
 [22] : 1_RMXP_Scripts.rb (PSDK) | ligne 2098 eval_script
 [21] : 1_RMXP_Scripts.rb (PSDK) | ligne 2089 command_355

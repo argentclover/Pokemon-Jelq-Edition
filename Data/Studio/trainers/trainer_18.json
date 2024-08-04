@@ -1,0 +1,211 @@
+{
+  "klass": "TrainerBattleSetup",
+  "id": 18,
+  "dbSymbol": "trainer_18",
+  "vsType": 1,
+  "isCouple": false,
+  "baseMoney": 50,
+  "ai": 5,
+  "party": [
+    {
+      "specie": "mareep",
+      "form": 0,
+      "shinySetup": {
+        "kind": "rate",
+        "rate": 1
+      },
+      "levelSetup": {
+        "kind": "fixed",
+        "level": 14
+      },
+      "randomEncounterChance": 1,
+      "expandPokemonSetup": [
+        {
+          "type": "evs",
+          "value": {
+            "hp": 0,
+            "atk": 0,
+            "dfe": 0,
+            "spd": 0,
+            "ats": 0,
+            "dfs": 0
+          }
+        },
+        {
+          "type": "ivs",
+          "value": {
+            "hp": 0,
+            "atk": 0,
+            "dfe": 0,
+            "spd": 0,
+            "ats": 0,
+            "dfs": 0
+          }
+        },
+        {
+          "type": "loyalty",
+          "value": 70
+        },
+        {
+          "type": "moves",
+          "value": [
+            "thunder_shock",
+            "thunder_wave",
+            "tackle",
+            "cotton_spore"
+          ]
+        },
+        {
+          "type": "originalTrainerName",
+          "value": "Nathan"
+        },
+        {
+          "type": "originalTrainerId",
+          "value": 0
+        },
+        {
+          "type": "ability",
+          "value": "static"
+        }
+      ]
+    },
+    {
+      "specie": "gligar",
+      "form": 0,
+      "shinySetup": {
+        "kind": "automatic",
+        "rate": -1
+      },
+      "levelSetup": {
+        "kind": "fixed",
+        "level": 16
+      },
+      "randomEncounterChance": 1,
+      "expandPokemonSetup": [
+        {
+          "type": "evs",
+          "value": {
+            "hp": 0,
+            "atk": 0,
+            "dfe": 0,
+            "spd": 0,
+            "ats": 0,
+            "dfs": 0
+          }
+        },
+        {
+          "type": "ivs",
+          "value": {
+            "hp": 0,
+            "atk": 0,
+            "dfe": 0,
+            "spd": 0,
+            "ats": 0,
+            "dfs": 0
+          }
+        },
+        {
+          "type": "loyalty",
+          "value": 70
+        },
+        {
+          "type": "moves",
+          "value": [
+            "fury_cutter",
+            "quick_attack",
+            "poison_tail",
+            "sand_attack"
+          ]
+        },
+        {
+          "type": "originalTrainerName",
+          "value": "Nathan"
+        },
+        {
+          "type": "originalTrainerId",
+          "value": 0
+        },
+        {
+          "type": "ability",
+          "value": "immunity"
+        }
+      ]
+    },
+    {
+      "specie": "wartortle",
+      "form": 0,
+      "shinySetup": {
+        "kind": "automatic",
+        "rate": -1
+      },
+      "levelSetup": {
+        "kind": "fixed",
+        "level": 16
+      },
+      "randomEncounterChance": 1,
+      "expandPokemonSetup": [
+        {
+          "type": "evs",
+          "value": {
+            "hp": 0,
+            "atk": 0,
+            "dfe": 0,
+            "spd": 0,
+            "ats": 0,
+            "dfs": 0
+          }
+        },
+        {
+          "type": "ivs",
+          "value": {
+            "hp": 0,
+            "atk": 0,
+            "dfe": 0,
+            "spd": 0,
+            "ats": 0,
+            "dfs": 0
+          }
+        },
+        {
+          "type": "loyalty",
+          "value": 70
+        },
+        {
+          "type": "moves",
+          "value": [
+            "water_pulse",
+            "bite",
+            "fake_out",
+            "withdraw"
+          ]
+        },
+        {
+          "type": "originalTrainerName",
+          "value": "Nathan"
+        },
+        {
+          "type": "originalTrainerId",
+          "value": 0
+        },
+        {
+          "type": "ability",
+          "value": "rain_dish"
+        }
+      ]
+    }
+  ],
+  "bagEntries": [],
+  "battleId": 0,
+  "resources": {
+    "artworkFull": "",
+    "artworkSmall": "",
+    "character": "",
+    "musics": {
+      "bgm": "",
+      "defeat": "",
+      "encounter": "",
+      "victory": ""
+    },
+    "sprite": "nathan"
+  }
+}

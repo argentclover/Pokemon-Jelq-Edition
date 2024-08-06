@@ -28,7 +28,7 @@
           "conditions": [
             {
               "type": "minLevel",
-              "value": 34
+              "value": 36
             }
           ]
         }
@@ -61,6 +61,19 @@
         "liquid_voice"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "729",
+        "iconShiny": "",
+        "front": "729",
+        "frontShiny": "729",
+        "back": "729",
+        "backShiny": "729",
+        "footprint": "",
+        "character": "729_0",
+        "characterShiny": "729s_0",
+        "cry": "729cry.ogg",
+        "hasFemale": false
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -300,20 +313,7 @@
           "klass": "TechLearnableMove",
           "move": "whirlpool"
         }
-      ],
-      "resources": {
-        "icon": "729",
-        "iconShiny": "",
-        "front": "729",
-        "frontShiny": "729",
-        "back": "729",
-        "backShiny": "729",
-        "footprint": "",
-        "character": "729_0",
-        "characterShiny": "729s_0",
-        "cry": "729cry.ogg",
-        "hasFemale": false
-      }
+      ]
     }
   ]
 }

@@ -295,7 +295,7 @@
       26
     ],
     "hasChildren": true,
-    "isExpanded": false,
+    "isExpanded": true,
     "data": {
       "klass": "MapInfoFolder",
       "textId": 0
@@ -366,10 +366,11 @@
   "30": {
     "id": 30,
     "children": [
-      27
+      27,
+      37
     ],
     "hasChildren": true,
-    "isExpanded": false,
+    "isExpanded": true,
     "data": {
       "klass": "MapInfoFolder",
       "textId": 2
@@ -439,6 +440,30 @@
       "klass": "MapInfoMap",
       "mapDbSymbol": "map033",
       "parentId": 29
+    }
+  },
+  "37": {
+    "id": 37,
+    "children": [
+      38
+    ],
+    "hasChildren": true,
+    "isExpanded": true,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map034",
+      "parentId": 30
+    }
+  },
+  "38": {
+    "id": 38,
+    "children": [],
+    "hasChildren": false,
+    "isExpanded": false,
+    "data": {
+      "klass": "MapInfoMap",
+      "mapDbSymbol": "map035",
+      "parentId": 37
     }
   }
 }

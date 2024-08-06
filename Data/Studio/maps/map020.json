@@ -14,8 +14,8 @@
     "pitch": 100
   },
   "tiledFilename": "020 Route",
-  "mtime": 1721713361946,
-  "sha1": "99485207d5684d5ee7207a201a0e719235624137",
+  "mtime": 1722904385516,
+  "sha1": "fddcd8a03ff473a055dd71e889e448242523fa71",
   "tileMetadata": {
     "width": 48,
     "height": 96,
@@ -41,15 +41,15 @@
         "source": "../Tilesets/passages.tsx"
       },
       {
-        "firstGlobalId": 18538,
+        "firstGlobalId": 18666,
         "source": "../Tilesets/TECH-Buildings.tsx"
       },
       {
-        "firstGlobalId": 43114,
+        "firstGlobalId": 43242,
         "source": "../Tilesets/TECH-Mounts.tsx"
       },
       {
-        "firstGlobalId": 54154,
+        "firstGlobalId": 54282,
         "source": "../Tilesets/TECH-Animations.tsx"
       }
     ],
@@ -396,7 +396,7 @@
       ],
       [
         {
-          "globalId": 59545,
+          "globalId": 59673,
           "transformId": 0
         },
         {
@@ -1795,19 +1795,19 @@
       ],
       [
         {
-          "globalId": 43810,
+          "globalId": 43938,
           "transformId": 0
         }
       ],
       [
         {
-          "globalId": 43577,
+          "globalId": 43705,
           "transformId": 0
         }
       ],
       [
         {
-          "globalId": 43640,
+          "globalId": 43768,
           "transformId": 0
         },
         {
@@ -1816,19 +1816,19 @@
       ],
       [
         {
-          "globalId": 43811,
+          "globalId": 43939,
           "transformId": 0
         }
       ],
       [
         {
-          "globalId": 43578,
+          "globalId": 43706,
           "transformId": 0
         }
       ],
       [
         {
-          "globalId": 43641,
+          "globalId": 43769,
           "transformId": 0
         },
         {
@@ -1837,40 +1837,25 @@
       ],
       [
         {
-          "globalId": 43811,
+          "globalId": 43939,
           "transformId": 0
         },
         {
-          "globalId": 43461,
+          "globalId": 43589,
           "transformId": 0
         },
         {
-          "globalId": 43641,
+          "globalId": 43769,
           "transformId": 0
         },
         {
-          "globalId": 43268,
+          "globalId": 43396,
           "transformId": 0
         }
       ],
       [
         {
-          "globalId": 43529,
-          "transformId": 0
-        },
-        {
-          "passage": 15
-        }
-      ],
-      [
-        {
-          "globalId": 43925,
-          "transformId": 0
-        }
-      ],
-      [
-        {
-          "globalId": 43692,
+          "globalId": 43657,
           "transformId": 0
         },
         {
@@ -1879,13 +1864,13 @@
       ],
       [
         {
-          "globalId": 43926,
+          "globalId": 44053,
           "transformId": 0
         }
       ],
       [
         {
-          "globalId": 43693,
+          "globalId": 43820,
           "transformId": 0
         },
         {
@@ -1894,23 +1879,13 @@
       ],
       [
         {
-          "globalId": 43926,
-          "transformId": 0
-        },
-        {
-          "globalId": 43461,
+          "globalId": 44054,
           "transformId": 0
         }
       ],
       [
         {
-          "globalId": 43524,
-          "transformId": 0
-        }
-      ],
-      [
-        {
-          "globalId": 43383,
+          "globalId": 43821,
           "transformId": 0
         },
         {
@@ -1919,7 +1894,23 @@
       ],
       [
         {
-          "globalId": 43607,
+          "globalId": 44054,
+          "transformId": 0
+        },
+        {
+          "globalId": 43589,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 43652,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 43511,
           "transformId": 0
         },
         {
@@ -1928,7 +1919,7 @@
       ],
       [
         {
-          "globalId": 43606,
+          "globalId": 43735,
           "transformId": 0
         },
         {
@@ -1937,13 +1928,7 @@
       ],
       [
         {
-          "globalId": 43461,
-          "transformId": 0
-        }
-      ],
-      [
-        {
-          "globalId": 43268,
+          "globalId": 43734,
           "transformId": 0
         },
         {
@@ -1952,13 +1937,13 @@
       ],
       [
         {
-          "globalId": 43576,
+          "globalId": 43589,
           "transformId": 0
         }
       ],
       [
         {
-          "globalId": 43639,
+          "globalId": 43396,
           "transformId": 0
         },
         {
@@ -1967,23 +1952,38 @@
       ],
       [
         {
-          "globalId": 43810,
+          "globalId": 43704,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 43767,
           "transformId": 0
         },
         {
-          "globalId": 43461,
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 43938,
+          "transformId": 0
+        },
+        {
+          "globalId": 43589,
           "transformId": 0
         }
       ],
       [
         {
-          "globalId": 43268,
+          "globalId": 43396,
           "transformId": 0
         }
       ],
       [
         {
-          "globalId": 43722,
+          "globalId": 43850,
           "transformId": 0
         }
       ],
@@ -1998,7 +1998,7 @@
       ],
       [
         {
-          "globalId": 43721,
+          "globalId": 43849,
           "transformId": 0
         }
       ],
@@ -2013,7 +2013,7 @@
       ],
       [
         {
-          "globalId": 43383,
+          "globalId": 43511,
           "transformId": 0
         }
       ],
@@ -2028,7 +2028,7 @@
       ],
       [
         {
-          "globalId": 43691,
+          "globalId": 43819,
           "transformId": 0
         },
         {
@@ -2037,29 +2037,29 @@
       ],
       [
         {
-          "globalId": 43925,
+          "globalId": 44053,
           "transformId": 0
         },
         {
-          "globalId": 43576,
+          "globalId": 43704,
           "transformId": 0
         }
       ],
       [
         {
-          "globalId": 43639,
+          "globalId": 43767,
           "transformId": 0
         }
       ],
       [
         {
-          "globalId": 57389,
+          "globalId": 57517,
           "transformId": 0
         }
       ],
       [
         {
-          "globalId": 61898,
+          "globalId": 62026,
           "transformId": 0
         },
         {
@@ -2068,13 +2068,13 @@
       ],
       [
         {
-          "globalId": 57390,
+          "globalId": 57518,
           "transformId": 0
         }
       ],
       [
         {
-          "globalId": 61899,
+          "globalId": 62027,
           "transformId": 0
         },
         {
@@ -2092,7 +2092,7 @@
       ],
       [
         {
-          "globalId": 43577,
+          "globalId": 43705,
           "transformId": 0
         },
         {
@@ -2101,7 +2101,7 @@
       ],
       [
         {
-          "globalId": 43578,
+          "globalId": 43706,
           "transformId": 0
         },
         {
@@ -2110,46 +2110,31 @@
       ],
       [
         {
-          "globalId": 43811,
+          "globalId": 43939,
           "transformId": 0
         },
         {
-          "globalId": 43576,
+          "globalId": 43704,
           "transformId": 0
         }
       ],
       [
         {
-          "globalId": 43811,
+          "globalId": 43939,
           "transformId": 0
         },
         {
-          "globalId": 43461,
+          "globalId": 43589,
           "transformId": 0
         },
         {
-          "globalId": 43268,
+          "globalId": 43396,
           "transformId": 0
         }
       ],
       [
         {
-          "globalId": 57487,
-          "transformId": 0
-        },
-        {
-          "passage": 15
-        }
-      ],
-      [
-        {
-          "globalId": 57488,
-          "transformId": 0
-        }
-      ],
-      [
-        {
-          "globalId": 61997,
+          "globalId": 57615,
           "transformId": 0
         },
         {
@@ -2158,7 +2143,22 @@
       ],
       [
         {
-          "globalId": 43691,
+          "globalId": 57616,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 62125,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 43819,
           "transformId": 0
         }
       ],
@@ -2173,19 +2173,19 @@
       ],
       [
         {
-          "globalId": 43692,
+          "globalId": 43820,
           "transformId": 0
         }
       ],
       [
         {
-          "globalId": 43693,
+          "globalId": 43821,
           "transformId": 0
         }
       ],
       [
         {
-          "globalId": 43925,
+          "globalId": 44053,
           "transformId": 0
         },
         {
@@ -2194,30 +2194,21 @@
       ],
       [
         {
-          "globalId": 43926,
+          "globalId": 44054,
           "transformId": 0
         },
         {
-          "globalId": 43461,
+          "globalId": 43589,
           "transformId": 0
         },
         {
-          "globalId": 43524,
+          "globalId": 43652,
           "transformId": 0
         }
       ],
       [
         {
-          "globalId": 57389,
-          "transformId": 0
-        },
-        {
-          "passage": 15
-        }
-      ],
-      [
-        {
-          "globalId": 62095,
+          "globalId": 57517,
           "transformId": 0
         },
         {
@@ -2226,17 +2217,7 @@
       ],
       [
         {
-          "globalId": 43811,
-          "transformId": 0
-        },
-        {
-          "globalId": 43461,
-          "transformId": 0
-        }
-      ],
-      [
-        {
-          "globalId": 43524,
+          "globalId": 62223,
           "transformId": 0
         },
         {
@@ -2245,7 +2226,17 @@
       ],
       [
         {
-          "globalId": 57488,
+          "globalId": 43939,
+          "transformId": 0
+        },
+        {
+          "globalId": 43589,
+          "transformId": 0
+        }
+      ],
+      [
+        {
+          "globalId": 43652,
           "transformId": 0
         },
         {
@@ -2254,13 +2245,22 @@
       ],
       [
         {
-          "globalId": 57487,
+          "globalId": 57616,
+          "transformId": 0
+        },
+        {
+          "passage": 15
+        }
+      ],
+      [
+        {
+          "globalId": 57615,
           "transformId": 0
         }
       ],
       [
         {
-          "globalId": 57390,
+          "globalId": 57518,
           "transformId": 0
         },
         {
@@ -2278,7 +2278,7 @@
       ],
       [
         {
-          "globalId": 43810,
+          "globalId": 43938,
           "transformId": 0
         },
         {

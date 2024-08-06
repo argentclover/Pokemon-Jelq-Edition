@@ -28,7 +28,7 @@
           "conditions": [
             {
               "type": "minLevel",
-              "value": 30
+              "value": 36
             }
           ]
         }

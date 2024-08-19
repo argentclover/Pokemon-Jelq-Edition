@@ -1,17 +1,49 @@
 ================================Erreur de script================================
 Message :
-(eval):6: syntax error, unexpected ',', expecting =>
-  moves: :gust, :confusion, :calm_mind
-                          ^
-(eval):7: syntax error, unexpected '}', expecting end-of-input
+undefined method `index' for <PB:Ivysaur,1,-1 lv=1 hp=1 st=0>:PFM::PokemonBattler
 
-Type : SyntaxError
-Script : 1_RMXP_Scripts.rb (PSDK)
-Ligne : 2098
-Date : 03/08/2024 17:25:31
+Type : NoMethodError
+Script : 00015 SwitchLast.rb (user)
+Ligne : 11
+Date : 19/08/2024 15:16:19
 Game Version : 256
 Logiciel : PSDK 26.29
+Script used by eval command : 
+bi = Battle::Logic::BattleInfo.new
+bi.add_party(0, *bi.player_basic_info)
+party = []
+party << PFM::Pokemon.generate_from_hash(id: :bulbasaur, level: 1)
+party << PFM::Pokemon.generate_from_hash(id: :ivysaur, level: 1)
+party << PFM::Pokemon.generate_from_hash(id: :venusaur, level: 1)
+party << PFM::Pokemon.generate_from_hash(id: :charmander, level: 1)
+party << PFM::Pokemon.generate_from_hash(id: :charmeleon, level: 1)
+party << PFM::Pokemon.generate_from_hash(id: :charizard, level: 36)
+bag = PFM::Bag.new
+bi.add_party(1, party, 'SwitchLast', 'test', 'dp_43', bag, 100, 15)
+$scene.call_scene(Battle::Scene, bi)
+
+
 ===================================Backtraces===================================
+[43] : 00015 SwitchLast.rb (user) | ligne 11 can_switch_be_performed?
+[42] : 00015 SwitchLast.rb (user) | ligne 25 clean_switch_actions
+[41] : 00015 SwitchLast.rb (user) | ligne 25 select
+[40] : 00015 SwitchLast.rb (user) | ligne 25 clean_switch_actions
+[39] : 5_Battle_30_AI.rb (PSDK) | ligne 480 clean_switch_trigger_actions
+[38] : 5_Battle_30_AI.rb (PSDK) | ligne 288 battle_action_for
+[37] : 5_Battle_30_AI.rb (PSDK) | ligne 251 trigger
+[36] : 5_Battle_30_AI.rb (PSDK) | ligne 248 each
+[35] : 5_Battle_30_AI.rb (PSDK) | ligne 248 flat_map
+[34] : 5_Battle_30_AI.rb (PSDK) | ligne 248 trigger
+[33] : 5_Battle_01_Scene.rb (PSDK) | ligne 407 trigger_all_AI
+[32] : 5_Battle_01_Scene.rb (PSDK) | ligne 401 each
+[31] : 5_Battle_01_Scene.rb (PSDK) | ligne 401 each_with_index
+[30] : 5_Battle_01_Scene.rb (PSDK) | ligne 401 trigger_all_AI
+[29] : 5_Battle_01_Scene.rb (PSDK) | ligne 66 next_update_process
+[28] : 5_Battle_01_Scene.rb (PSDK) | ligne 58 update
+[27] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 229 main_process
+[26] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 140 main
+[25] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 170 call_scene
+[24] : (eval) (RMXP) | ligne 12 eval_script
 [23] : 1_RMXP_Scripts.rb (PSDK) | ligne 2098 eval
 [22] : 1_RMXP_Scripts.rb (PSDK) | ligne 2098 eval_script
 [21] : 1_RMXP_Scripts.rb (PSDK) | ligne 2089 command_355

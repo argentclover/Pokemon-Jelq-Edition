@@ -92,7 +92,7 @@ end
 # This kind of event will be called just after the "Trainer wants to battle" message,
 # if the transition supports it
 # In this kind of event, you can show some pre-battle dialogs or anything else you want.
-# Don't forget to call scene.visual.lock otherwise you might get some troubles!
+# Don't forget to call . otherwise you might get some troubles!
 #
 # In this example we'll show the 1st AI and make it says something
 Battle::Scene.register_event(:pre_battle_begin) do |scene|

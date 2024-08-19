@@ -1,0 +1,23 @@
+module Battle
+  # Module holding the whole AI code
+  module AI
+    class SwitchLastLv5 < TrainerLv5
+      # Function that tell if a Pokemon can be switched out based on the current turn & some random factor
+      # @param action [Actions::Switch]
+      # @return [Boolean]
+      def can_switch_be_performed?(action)
+        return false unless super
+
+        with = action.with
+        # @type [Logic::BattleInfo]
+        bi = action.instance_variable_get(:@scene).battle_info
+        party_size = scene.logic.battle_info.party(with).size
+        is_last = with.place_in_party == party_size - 1
+        # figure out how to list all alive battler of AI party
+      end
+
+      
+      Base.register(15, self)
+    end
+  end
+end

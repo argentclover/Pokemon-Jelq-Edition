@@ -3219,6 +3219,10 @@
     {
       "dbSymbol": "toxel",
       "form": 0
+    },
+    {
+      "dbSymbol": "delta_goomy",
+      "form": 0
     }
   ]
 }

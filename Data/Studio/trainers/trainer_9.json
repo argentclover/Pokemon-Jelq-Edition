@@ -11,7 +11,7 @@
       "amount": 1
     }
   ],
-  "battleId": 0,
+  "battleId": 3,
   "ai": 7,
   "party": [
     {
@@ -319,7 +319,7 @@
       },
       "levelSetup": {
         "kind": "fixed",
-        "level": 34
+        "level": 100
       },
       "randomEncounterChance": 1,
       "expandPokemonSetup": [
@@ -391,10 +391,10 @@
     "artworkSmall": "",
     "character": "",
     "musics": {
-      "bgm": "",
-      "defeat": "",
       "encounter": "",
-      "victory": ""
+      "victory": "",
+      "defeat": "",
+      "bgm": ""
     }
   }
 }

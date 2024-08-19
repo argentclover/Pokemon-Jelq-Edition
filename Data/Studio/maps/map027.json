@@ -14,8 +14,8 @@
     "pitch": 100
   },
   "tiledFilename": "027 Arlington Exterior",
-  "mtime": 1722902338199,
-  "sha1": "c8419a37180800d0380a393972eac2b9c418d8cc",
+  "mtime": 1723778600684,
+  "sha1": "1be0d96a6f9a743094fc07ccbafbedf43cb3a1e2",
   "tileMetadata": {
     "width": 45,
     "height": 30,
@@ -3112,7 +3112,7 @@
           "transformId": 0
         },
         {
-          "passage": 0
+          "passage": 15
         }
       ],
       [
@@ -3144,7 +3144,7 @@
           "transformId": 0
         },
         {
-          "passage": 0
+          "passage": 15
         }
       ],
       [
@@ -3172,7 +3172,7 @@
           "transformId": 0
         },
         {
-          "passage": 0
+          "passage": 15
         }
       ],
       [
@@ -3200,7 +3200,7 @@
           "transformId": 0
         },
         {
-          "passage": 0
+          "passage": 15
         }
       ],
       [
@@ -3836,7 +3836,11 @@
       ],
       [
         {
-          "priority": 2
+          "priority": 4
+        },
+        {
+          "globalId": 19307,
+          "transformId": 0
         },
         {
           "globalId": 19307,
@@ -3875,7 +3879,11 @@
       ],
       [
         {
-          "priority": 2
+          "priority": 4
+        },
+        {
+          "globalId": 19308,
+          "transformId": 0
         },
         {
           "globalId": 19308,
@@ -3914,7 +3922,11 @@
       ],
       [
         {
-          "priority": 2
+          "priority": 4
+        },
+        {
+          "globalId": 19309,
+          "transformId": 0
         },
         {
           "globalId": 19309,
@@ -3953,7 +3965,11 @@
       ],
       [
         {
-          "priority": 2
+          "priority": 4
+        },
+        {
+          "globalId": 19310,
+          "transformId": 0
         },
         {
           "globalId": 19310,
@@ -3988,7 +4004,11 @@
       ],
       [
         {
-          "priority": 2
+          "priority": 4
+        },
+        {
+          "globalId": 19311,
+          "transformId": 0
         },
         {
           "globalId": 19311,
@@ -4392,7 +4412,11 @@
       ],
       [
         {
-          "priority": 2
+          "priority": 4
+        },
+        {
+          "globalId": 19436,
+          "transformId": 0
         },
         {
           "globalId": 19436,
@@ -4424,7 +4448,11 @@
       ],
       [
         {
-          "priority": 2
+          "priority": 4
+        },
+        {
+          "globalId": 19437,
+          "transformId": 0
         },
         {
           "globalId": 19437,
@@ -4460,7 +4488,11 @@
       ],
       [
         {
-          "priority": 2
+          "priority": 4
+        },
+        {
+          "globalId": 19438,
+          "transformId": 0
         },
         {
           "globalId": 19438,
@@ -10367,27 +10399,27 @@
       ],
       [
         24,
-        185,
+        232,
         291
       ],
       [
         21,
-        185,
+        232,
         292
       ],
       [
         24,
-        82,
+        131,
         293
       ],
       [
         24,
-        188,
+        205,
         294
       ],
       [
         51,
-        167,
+        236,
         295
       ],
       [

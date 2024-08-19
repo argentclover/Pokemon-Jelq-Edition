@@ -1,0 +1,87 @@
+{
+  "klass": "TrainerBattleSetup",
+  "id": 25,
+  "dbSymbol": "trainer_25",
+  "vsType": 1,
+  "isCouple": false,
+  "baseMoney": 40,
+  "ai": 4,
+  "party": [
+    {
+      "specie": "probopass",
+      "form": 0,
+      "shinySetup": {
+        "kind": "automatic",
+        "rate": -1
+      },
+      "levelSetup": {
+        "kind": "fixed",
+        "level": 32
+      },
+      "randomEncounterChance": 1,
+      "expandPokemonSetup": [
+        {
+          "type": "evs",
+          "value": {
+            "hp": 72,
+            "atk": 0,
+            "dfe": 72,
+            "spd": 0,
+            "ats": 0,
+            "dfs": 72
+          }
+        },
+        {
+          "type": "ivs",
+          "value": {
+            "hp": 0,
+            "atk": 0,
+            "dfe": 0,
+            "spd": 0,
+            "ats": 0,
+            "dfs": 0
+          }
+        },
+        {
+          "type": "loyalty",
+          "value": 70
+        },
+        {
+          "type": "moves",
+          "value": [
+            "tri_attack",
+            "discharge",
+            "power_gem",
+            "magnet_rise"
+          ]
+        },
+        {
+          "type": "originalTrainerName",
+          "value": "Ben"
+        },
+        {
+          "type": "originalTrainerId",
+          "value": 0
+        },
+        {
+          "type": "ability",
+          "value": "sturdy"
+        }
+      ]
+    }
+  ],
+  "bagEntries": [],
+  "battleId": 0,
+  "resources": {
+    "artworkFull": "",
+    "artworkSmall": "",
+    "character": "",
+    "musics": {
+      "bgm": "",
+      "defeat": "",
+      "encounter": "",
+      "victory": ""
+    },
+    "sprite": "dp_60"
+  }
+}

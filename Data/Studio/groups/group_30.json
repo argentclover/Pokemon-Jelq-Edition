@@ -2,6 +2,18 @@
   "klass": "Group",
   "id": 30,
   "dbSymbol": "group_30",
+  "systemTag": "Cave",
+  "terrainTag": 0,
+  "tool": null,
+  "isDoubleBattle": false,
+  "isHordeBattle": false,
+  "customConditions": [
+    {
+      "type": "mapId",
+      "value": 36,
+      "relationWithPreviousCondition": "AND"
+    }
+  ],
   "encounters": [
     {
       "specie": "diglett",
@@ -13,8 +25,8 @@
       "levelSetup": {
         "kind": "minmax",
         "level": {
-          "minimumLevel": 10,
-          "maximumLevel": 15
+          "minimumLevel": 12,
+          "maximumLevel": 18
         }
       },
       "randomEncounterChance": 10,
@@ -55,8 +67,8 @@
       "levelSetup": {
         "kind": "minmax",
         "level": {
-          "minimumLevel": 10,
-          "maximumLevel": 15
+          "minimumLevel": 12,
+          "maximumLevel": 18
         }
       },
       "randomEncounterChance": 10,
@@ -97,8 +109,8 @@
       "levelSetup": {
         "kind": "minmax",
         "level": {
-          "minimumLevel": 10,
-          "maximumLevel": 15
+          "minimumLevel": 12,
+          "maximumLevel": 18
         }
       },
       "randomEncounterChance": 10,
@@ -140,7 +152,7 @@
         "kind": "minmax",
         "level": {
           "minimumLevel": 12,
-          "maximumLevel": 15
+          "maximumLevel": 18
         }
       },
       "randomEncounterChance": 1,
@@ -172,17 +184,5 @@
       ]
     }
   ],
-  "isDoubleBattle": false,
-  "systemTag": "Cave",
-  "terrainTag": 0,
-  "customConditions": [
-    {
-      "type": "mapId",
-      "relationWithPreviousCondition": "AND",
-      "value": 36
-    }
-  ],
-  "tool": null,
-  "isHordeBattle": false,
   "stepsAverage": 15
 }

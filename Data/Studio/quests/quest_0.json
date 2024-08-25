@@ -4,17 +4,7 @@
   "dbSymbol": "quest_0",
   "isPrimary": true,
   "resolution": "default",
-  "objectives": [
-    {
-      "objectiveMethodName": "objective_speak_to",
-      "objectiveMethodArgs": [
-        0,
-        "SirMalo"
-      ],
-      "textFormatMethodName": "text_speak_to",
-      "hiddenByDefault": false
-    }
-  ],
+  "objectives": [],
   "earnings": [
     {
       "earningMethodName": "earning_money",

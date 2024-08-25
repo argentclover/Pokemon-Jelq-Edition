@@ -4,7 +4,7 @@
   "dbSymbol": "map033",
   "stepsAverage": 30,
   "bgm": {
-    "name": "",
+    "name": "Gym Theme - Pokémon HeartGold & SoulSilver.mp3",
     "volume": 100,
     "pitch": 100
   },
@@ -13,9 +13,9 @@
     "volume": 100,
     "pitch": 100
   },
+  "tiledFilename": "033 Arlington Gym",
   "mtime": 1722725640479,
   "sha1": "02bf6eefb1b0a3b62c8de305056606ce07a0c270",
-  "tiledFilename": "033 Arlington Gym",
   "tileMetadata": {
     "width": 20,
     "height": 20,

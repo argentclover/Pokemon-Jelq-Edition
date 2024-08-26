@@ -61,6 +61,25 @@
         "lightning_rod"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "025",
+        "iconShiny": "",
+        "front": "025",
+        "frontF": "025f",
+        "frontShiny": "025",
+        "frontShinyF": "025f",
+        "back": "025",
+        "backF": "025f",
+        "backShiny": "025",
+        "backShinyF": "025f",
+        "footprint": "025",
+        "character": "025_0",
+        "characterF": "025f_0",
+        "characterShiny": "025s_0",
+        "characterShinyF": "025fs_0",
+        "cry": "025cry.ogg",
+        "hasFemale": true
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -320,26 +339,7 @@
           "klass": "TechLearnableMove",
           "move": "rock_smash"
         }
-      ],
-      "resources": {
-        "icon": "025",
-        "iconShiny": "",
-        "front": "025",
-        "frontF": "025f",
-        "frontShiny": "025",
-        "frontShinyF": "025f",
-        "back": "025",
-        "backF": "025f",
-        "backShiny": "025",
-        "backShinyF": "025f",
-        "footprint": "025",
-        "character": "025_0",
-        "characterF": "025f_0",
-        "characterShiny": "025s_0",
-        "characterShinyF": "025fs_0",
-        "cry": "025cry.ogg",
-        "hasFemale": true
-      }
+      ]
     },
     {
       "form": 1,
@@ -399,6 +399,23 @@
         "lightning_rod"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "025_01",
+        "iconShiny": "",
+        "front": "025_01",
+        "frontF": "025f",
+        "frontShiny": "025",
+        "frontShinyF": "025f",
+        "back": "025",
+        "backF": "025f",
+        "backShiny": "025",
+        "backShinyF": "025f",
+        "footprint": "025",
+        "character": "",
+        "characterShiny": "",
+        "cry": "025cry.ogg",
+        "hasFemale": true
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -614,24 +631,7 @@
           "klass": "TechLearnableMove",
           "move": "rock_smash"
         }
-      ],
-      "resources": {
-        "icon": "025_01",
-        "iconShiny": "",
-        "front": "025_01",
-        "frontF": "025f",
-        "frontShiny": "025",
-        "frontShinyF": "025f",
-        "back": "025",
-        "backF": "025f",
-        "backShiny": "025",
-        "backShinyF": "025f",
-        "footprint": "025",
-        "character": "",
-        "characterShiny": "",
-        "cry": "025cry.ogg",
-        "hasFemale": true
-      }
+      ]
     },
     {
       "form": 2,
@@ -691,6 +691,23 @@
         "lightning_rod"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "025_02",
+        "iconShiny": "",
+        "front": "025_02",
+        "frontF": "025f",
+        "frontShiny": "025",
+        "frontShinyF": "025f",
+        "back": "025",
+        "backF": "025f",
+        "backShiny": "025",
+        "backShinyF": "025f",
+        "footprint": "025",
+        "character": "",
+        "characterShiny": "",
+        "cry": "025cry.ogg",
+        "hasFemale": true
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -906,24 +923,7 @@
           "klass": "TechLearnableMove",
           "move": "rock_smash"
         }
-      ],
-      "resources": {
-        "icon": "025_02",
-        "iconShiny": "",
-        "front": "025_02",
-        "frontF": "025f",
-        "frontShiny": "025",
-        "frontShinyF": "025f",
-        "back": "025",
-        "backF": "025f",
-        "backShiny": "025",
-        "backShinyF": "025f",
-        "footprint": "025",
-        "character": "",
-        "characterShiny": "",
-        "cry": "025cry.ogg",
-        "hasFemale": true
-      }
+      ]
     },
     {
       "form": 3,
@@ -983,6 +983,23 @@
         "lightning_rod"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "025_03",
+        "iconShiny": "",
+        "front": "025_03",
+        "frontF": "025f",
+        "frontShiny": "025",
+        "frontShinyF": "025f",
+        "back": "025",
+        "backF": "025f",
+        "backShiny": "025",
+        "backShinyF": "025f",
+        "footprint": "025",
+        "character": "",
+        "characterShiny": "",
+        "cry": "025cry.ogg",
+        "hasFemale": true
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -1198,24 +1215,7 @@
           "klass": "TechLearnableMove",
           "move": "rock_smash"
         }
-      ],
-      "resources": {
-        "icon": "025_03",
-        "iconShiny": "",
-        "front": "025_03",
-        "frontF": "025f",
-        "frontShiny": "025",
-        "frontShinyF": "025f",
-        "back": "025",
-        "backF": "025f",
-        "backShiny": "025",
-        "backShinyF": "025f",
-        "footprint": "025",
-        "character": "",
-        "characterShiny": "",
-        "cry": "025cry.ogg",
-        "hasFemale": true
-      }
+      ]
     },
     {
       "form": 4,
@@ -1275,6 +1275,23 @@
         "lightning_rod"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "025_04",
+        "iconShiny": "",
+        "front": "025_04",
+        "frontF": "025f",
+        "frontShiny": "025",
+        "frontShinyF": "025f",
+        "back": "025",
+        "backF": "025f",
+        "backShiny": "025",
+        "backShinyF": "025f",
+        "footprint": "025",
+        "character": "",
+        "characterShiny": "",
+        "cry": "025cry.ogg",
+        "hasFemale": true
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -1490,24 +1507,7 @@
           "klass": "TechLearnableMove",
           "move": "rock_smash"
         }
-      ],
-      "resources": {
-        "icon": "025_04",
-        "iconShiny": "",
-        "front": "025_04",
-        "frontF": "025f",
-        "frontShiny": "025",
-        "frontShinyF": "025f",
-        "back": "025",
-        "backF": "025f",
-        "backShiny": "025",
-        "backShinyF": "025f",
-        "footprint": "025",
-        "character": "",
-        "characterShiny": "",
-        "cry": "025cry.ogg",
-        "hasFemale": true
-      }
+      ]
     },
     {
       "form": 5,
@@ -1567,6 +1567,23 @@
         "lightning_rod"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "025_05",
+        "iconShiny": "",
+        "front": "025_05",
+        "frontF": "025f",
+        "frontShiny": "025",
+        "frontShinyF": "025f",
+        "back": "025",
+        "backF": "025f",
+        "backShiny": "025",
+        "backShinyF": "025f",
+        "footprint": "025",
+        "character": "",
+        "characterShiny": "",
+        "cry": "025cry.ogg",
+        "hasFemale": true
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -1782,24 +1799,7 @@
           "klass": "TechLearnableMove",
           "move": "rock_smash"
         }
-      ],
-      "resources": {
-        "icon": "025_05",
-        "iconShiny": "",
-        "front": "025_05",
-        "frontF": "025f",
-        "frontShiny": "025",
-        "frontShinyF": "025f",
-        "back": "025",
-        "backF": "025f",
-        "backShiny": "025",
-        "backShinyF": "025f",
-        "footprint": "025",
-        "character": "",
-        "characterShiny": "",
-        "cry": "025cry.ogg",
-        "hasFemale": true
-      }
+      ]
     },
     {
       "form": 6,
@@ -1859,6 +1859,23 @@
         "lightning_rod"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "025_06",
+        "iconShiny": "",
+        "front": "025_06",
+        "frontF": "025f",
+        "frontShiny": "025",
+        "frontShinyF": "025f",
+        "back": "025",
+        "backF": "025f",
+        "backShiny": "025",
+        "backShinyF": "025f",
+        "footprint": "025",
+        "character": "",
+        "characterShiny": "",
+        "cry": "025cry.ogg",
+        "hasFemale": true
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -2074,24 +2091,7 @@
           "klass": "TechLearnableMove",
           "move": "rock_smash"
         }
-      ],
-      "resources": {
-        "icon": "025_06",
-        "iconShiny": "",
-        "front": "025_06",
-        "frontF": "025f",
-        "frontShiny": "025",
-        "frontShinyF": "025f",
-        "back": "025",
-        "backF": "025f",
-        "backShiny": "025",
-        "backShinyF": "025f",
-        "footprint": "025",
-        "character": "",
-        "characterShiny": "",
-        "cry": "025cry.ogg",
-        "hasFemale": true
-      }
+      ]
     },
     {
       "form": 7,
@@ -2151,6 +2151,23 @@
         "lightning_rod"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "025",
+        "iconShiny": "",
+        "front": "025_07",
+        "frontF": "025f",
+        "frontShiny": "025",
+        "frontShinyF": "025f",
+        "back": "025",
+        "backF": "025f",
+        "backShiny": "025",
+        "backShinyF": "025f",
+        "footprint": "025",
+        "character": "",
+        "characterShiny": "",
+        "cry": "025cry.ogg",
+        "hasFemale": true
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -2366,24 +2383,7 @@
           "klass": "TechLearnableMove",
           "move": "rock_smash"
         }
-      ],
-      "resources": {
-        "icon": "025",
-        "iconShiny": "",
-        "front": "025_07",
-        "frontF": "025f",
-        "frontShiny": "025",
-        "frontShinyF": "025f",
-        "back": "025",
-        "backF": "025f",
-        "backShiny": "025",
-        "backShinyF": "025f",
-        "footprint": "025",
-        "character": "",
-        "characterShiny": "",
-        "cry": "025cry.ogg",
-        "hasFemale": true
-      }
+      ]
     },
     {
       "form": 8,
@@ -2443,6 +2443,23 @@
         "lightning_rod"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "025",
+        "iconShiny": "",
+        "front": "025_08",
+        "frontF": "025f",
+        "frontShiny": "025_08",
+        "frontShinyF": "025f",
+        "back": "025_08",
+        "backF": "025f",
+        "backShiny": "025_08",
+        "backShinyF": "025f",
+        "footprint": "025",
+        "character": "",
+        "characterShiny": "",
+        "cry": "025cry.ogg",
+        "hasFemale": true
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -2658,24 +2675,7 @@
           "klass": "TechLearnableMove",
           "move": "rock_smash"
         }
-      ],
-      "resources": {
-        "icon": "025",
-        "iconShiny": "",
-        "front": "025_08",
-        "frontF": "025f",
-        "frontShiny": "025_08",
-        "frontShinyF": "025f",
-        "back": "025_08",
-        "backF": "025f",
-        "backShiny": "025_08",
-        "backShinyF": "025f",
-        "footprint": "025",
-        "character": "",
-        "characterShiny": "",
-        "cry": "025cry.ogg",
-        "hasFemale": true
-      }
+      ]
     },
     {
       "form": 9,
@@ -2751,6 +2751,23 @@
         "lightning_rod"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "025",
+        "iconShiny": "",
+        "front": "025_09",
+        "frontF": "025f",
+        "frontShiny": "025_09",
+        "frontShinyF": "025f",
+        "back": "025_09",
+        "backF": "025f",
+        "backShiny": "025_09",
+        "backShinyF": "025f",
+        "footprint": "025",
+        "character": "",
+        "characterShiny": "",
+        "cry": "025cry.ogg",
+        "hasFemale": true
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -2966,24 +2983,7 @@
           "klass": "TechLearnableMove",
           "move": "rock_smash"
         }
-      ],
-      "resources": {
-        "icon": "025",
-        "iconShiny": "",
-        "front": "025_09",
-        "frontF": "025f",
-        "frontShiny": "025_09",
-        "frontShinyF": "025f",
-        "back": "025_09",
-        "backF": "025f",
-        "backShiny": "025_09",
-        "backShinyF": "025f",
-        "footprint": "025",
-        "character": "",
-        "characterShiny": "",
-        "cry": "025cry.ogg",
-        "hasFemale": true
-      }
+      ]
     }
   ]
 }

@@ -4,8 +4,8 @@
   "dbSymbol": "map035",
   "stepsAverage": 30,
   "bgm": {
-    "name": "",
-    "volume": 100,
+    "name": "Kevin Hut.mp3",
+    "volume": 80,
     "pitch": 100
   },
   "bgs": {
@@ -13,9 +13,9 @@
     "volume": 100,
     "pitch": 100
   },
+  "tiledFilename": "035 Kevin Hut",
   "mtime": 1722911675613,
   "sha1": "3effca06d269a9c0c5ac1491ef9fa77d566cce96",
-  "tiledFilename": "035 Kevin Hut",
   "tileMetadata": {
     "width": 25,
     "height": 24,

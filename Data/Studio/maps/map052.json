@@ -4,8 +4,8 @@
   "dbSymbol": "map052",
   "stepsAverage": 30,
   "bgm": {
-    "name": "",
-    "volume": 100,
+    "name": "Route 4.mp3",
+    "volume": 80,
     "pitch": 100
   },
   "bgs": {

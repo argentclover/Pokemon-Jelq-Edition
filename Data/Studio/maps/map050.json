@@ -4,7 +4,7 @@
   "dbSymbol": "map050",
   "stepsAverage": 30,
   "bgm": {
-    "name": "",
+    "name": "Pokemon Heart Gold & Soul Silver Remastered - Poke Mart.mp3",
     "volume": 100,
     "pitch": 100
   },
@@ -13,9 +13,9 @@
     "volume": 100,
     "pitch": 100
   },
+  "tiledFilename": "050 SC PokeMart",
   "mtime": 1723836766563,
   "sha1": "7e331f5c2faacbbe3b3058697c411a00b0623e00",
-  "tiledFilename": "050 SC PokeMart",
   "tileMetadata": {
     "width": 20,
     "height": 20,

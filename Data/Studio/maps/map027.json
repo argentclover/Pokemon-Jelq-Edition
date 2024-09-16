@@ -14,8 +14,8 @@
     "pitch": 100
   },
   "tiledFilename": "027 Arlington Exterior",
-  "mtime": 1723778600684,
-  "sha1": "1be0d96a6f9a743094fc07ccbafbedf43cb3a1e2",
+  "mtime": 1725233262058,
+  "sha1": "0da37c391d3da263773bf84f88fd008fd8046874",
   "tileMetadata": {
     "width": 45,
     "height": 30,
@@ -6025,7 +6025,7 @@
           "transformId": 0
         },
         {
-          "passage": 0
+          "passage": 15
         }
       ],
       [
@@ -6034,7 +6034,7 @@
           "transformId": 0
         },
         {
-          "passage": 0
+          "passage": 15
         }
       ],
       [

@@ -1,22 +1,20 @@
 ================================Erreur de script================================
 Message :
-divided by 0
+min argument must be smaller than max argument
 
-Type : ZeroDivisionError
+Type : ArgumentError
 Script : 4_Systems_003_Map_Engine.rb (PSDK)
-Ligne : 5305
-Date : 24/08/2024 13:32:17
+Ligne : 6146
+Date : 02/09/2024 16:59:52
 Game Version : 256
 Logiciel : PSDK 26.29
 ===================================Backtraces===================================
-[23] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 5305 %
-[22] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 5305 update_charset_animation
-[21] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 4256 update_pattern
-[20] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 4223 update
-[19] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 6048 update
-[18] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 7566 each_value
-[17] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 7566 update
-[16] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9034 auto_transfert_update
+[21] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 6146 clamp
+[20] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 6146 center
+[19] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 6158 moveto
+[18] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9218 transfer_player_begin
+[17] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9227 transfer_player
+[16] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9040 auto_transfert_update
 [15] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9033 loop
 [14] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9033 auto_transfert_update
 [13] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 8908 update

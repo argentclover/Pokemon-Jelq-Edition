@@ -136,6 +136,11 @@
         },
         {
           "klass": "LevelLearnableMove",
+          "move": "waterfall",
+          "level": 39
+        },
+        {
+          "klass": "LevelLearnableMove",
           "move": "slash",
           "level": 45
         },

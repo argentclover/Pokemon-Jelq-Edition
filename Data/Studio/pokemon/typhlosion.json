@@ -101,6 +101,11 @@
         },
         {
           "klass": "LevelLearnableMove",
+          "move": "dig",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
           "move": "smokescreen",
           "level": 6
         },
@@ -133,6 +138,11 @@
           "klass": "LevelLearnableMove",
           "move": "flame_charge",
           "level": 35
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "earth_power",
+          "level": 40
         },
         {
           "klass": "LevelLearnableMove",

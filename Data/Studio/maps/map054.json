@@ -4,18 +4,18 @@
   "dbSymbol": "map054",
   "stepsAverage": 30,
   "bgm": {
-    "name": "",
+    "name": "Gym Theme - Pokémon HeartGold & SoulSilver.mp3",
     "volume": 100,
     "pitch": 100
   },
   "bgs": {
-    "name": "",
+    "name": "bgs_crowd_bw2.ogg",
     "volume": 100,
     "pitch": 100
   },
+  "tiledFilename": "054 Paradies Gym",
   "mtime": 1724638599900,
   "sha1": "20fce84bae75a9e131d8c700a99036f5cde776ea",
-  "tiledFilename": "054 Paradies Gym",
   "tileMetadata": {
     "width": 25,
     "height": 23,

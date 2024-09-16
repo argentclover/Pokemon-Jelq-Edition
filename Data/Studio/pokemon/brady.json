@@ -1,0 +1,69 @@
+{
+  "klass": "Specie",
+  "id": 816,
+  "dbSymbol": "brady",
+  "forms": [
+    {
+      "form": 0,
+      "height": 3,
+      "weight": 9999.99,
+      "type1": "fire",
+      "type2": "__undef__",
+      "baseHp": 100,
+      "baseAtk": 100,
+      "baseDfe": 120,
+      "baseSpd": 150,
+      "baseAts": 100,
+      "baseDfs": 120,
+      "evHp": 0,
+      "evAtk": 0,
+      "evDfe": 0,
+      "evSpd": 0,
+      "evAts": 0,
+      "evDfs": 0,
+      "evolutions": [],
+      "experienceType": 0,
+      "baseExperience": 40,
+      "baseLoyalty": 70,
+      "catchRate": 45,
+      "femaleRate": 0,
+      "breedGroups": [
+        0,
+        0
+      ],
+      "hatchSteps": 1024,
+      "babyDbSymbol": "brady",
+      "babyForm": 0,
+      "itemHeld": [
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        },
+        {
+          "dbSymbol": "none",
+          "chance": 0
+        }
+      ],
+      "abilities": [
+        "solid_rock",
+        "solid_rock",
+        "solid_rock"
+      ],
+      "frontOffsetY": 0,
+      "resources": {
+        "icon": "",
+        "iconShiny": "",
+        "front": "brady",
+        "frontShiny": "",
+        "back": "",
+        "backShiny": "",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "",
+        "hasFemale": false
+      },
+      "moveSet": []
+    }
+  ]
+}
